@@ -1,0 +1,13 @@
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.exe
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.deps.json
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.runtimeconfig.json
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.runtimeconfig.dev.json
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.dll
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\netcoreapp3.1\AluguelDeQuartos.pdb
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.csprojAssemblyReference.cache
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.AssemblyInfoInputs.cache
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.AssemblyInfo.cs
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.csproj.CoreCompileInputs.cache
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.dll
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.pdb
+C:\C#\Curso\Exercicios\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\netcoreapp3.1\AluguelDeQuartos.genruntimeconfig.cache
