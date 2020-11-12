@@ -50,17 +50,15 @@ namespace ProdutoPolimorfismo
 
                     //Add na lista do ImportedProduct
                     products.Add(new ImportedProduct(name, price, customsFree));
-                }
+                }             
+            }
 
-                Console.WriteLine();
-                Console.WriteLine("PRICE TAGS: ");
+            Console.WriteLine();
+            Console.WriteLine("PRICE TAGS: ");
 
-                foreach (Product prod in products)
-                {
-                    Console.WriteLine(prod.PriceTang());
-                }
-
-               
+            foreach (Product prod in products)
+            {
+                Console.WriteLine(prod.PriceTang());
             }
         }
     }
