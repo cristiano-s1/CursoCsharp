@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxMetodosAbstratos", "TaxMetodosAbstratos\TaxMetodosAbstratos.csproj", "{B75CCDC1-B439-4E44-A717-9F7C138B20C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75CCDC1-B439-4E44-A717-9F7C138B20C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75CCDC1-B439-4E44-A717-9F7C138B20C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75CCDC1-B439-4E44-A717-9F7C138B20C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75CCDC1-B439-4E44-A717-9F7C138B20C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA48627-B815-4716-B5E7-7B4EC6944967}
+	EndGlobalSection
+EndGlobal
