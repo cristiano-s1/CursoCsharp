@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContratoInterfaces", "ContratoInterfaces\ContratoInterfaces.csproj", "{B350665D-402D-40FB-9EC8-4CCF94AC80AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B350665D-402D-40FB-9EC8-4CCF94AC80AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B350665D-402D-40FB-9EC8-4CCF94AC80AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B350665D-402D-40FB-9EC8-4CCF94AC80AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B350665D-402D-40FB-9EC8-4CCF94AC80AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9B86B0-2A29-4C28-9B85-869E5BA1B318}
+	EndGlobalSection
+EndGlobal
